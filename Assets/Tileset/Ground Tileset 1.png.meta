@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 16e9d32b98aa5764ca891d937e271377
+guid: 16f6f5511361b8d4081b31855a9c046f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,7 +117,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_0'
+      name: Ground Tileset 1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -131,14 +131,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6fdf849886f1d0842b837ecdea7e588e
-      internalID: 792873490
+      spriteID: 9463eef23a4ce0a4f9cb6d1e182e376a
+      internalID: 1227133452
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_1'
+      name: Ground Tileset 1_1
       rect:
         serializedVersion: 2
         x: 16
@@ -152,14 +152,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ec54f6f0b1301744aec0d442ea4c3bf
-      internalID: 1060379730
+      spriteID: eed95154a12a41a458cd3c14ffe8035f
+      internalID: -749610438
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_2'
+      name: Ground Tileset 1_2
       rect:
         serializedVersion: 2
         x: 32
@@ -173,14 +173,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e85c659290a02e74a80a2ae07e3e1b19
-      internalID: -1594574974
+      spriteID: e774789bc2685f343abbec9a9ad01c49
+      internalID: 1406222020
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_3'
+      name: Ground Tileset 1_3
       rect:
         serializedVersion: 2
         x: 48
@@ -194,14 +194,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1dd6a97af397a80469a6dd2fa2fffba0
-      internalID: -1389055722
+      spriteID: 46cd743991491bb4c9e8f8b5645d93a9
+      internalID: 1409273079
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_4'
+      name: Ground Tileset 1_4
       rect:
         serializedVersion: 2
         x: 64
@@ -215,14 +215,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: adede89732d8d4c4d8a85003f51710de
-      internalID: 418937583
+      spriteID: 6e8ccd55eb2f3e74e98bb2a4a65fab34
+      internalID: 1757508508
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_5'
+      name: Ground Tileset 1_5
       rect:
         serializedVersion: 2
         x: 80
@@ -236,14 +236,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4232dd6fb0ec69a45947b9e2c36ccdca
-      internalID: -330841166
+      spriteID: d67b1d4deb373d84d996d63b92aed2e5
+      internalID: 626717303
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_6'
+      name: Ground Tileset 1_6
       rect:
         serializedVersion: 2
         x: 96
@@ -257,14 +257,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8014145bed0d0be47b9b42f281c10a1d
-      internalID: -1420620179
+      spriteID: 2fe10e782db871243a1a00e33c54a225
+      internalID: 280531996
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_7'
+      name: Ground Tileset 1_7
       rect:
         serializedVersion: 2
         x: 112
@@ -278,14 +278,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69c9744bcb295074eb9e9a18a8ee00b4
-      internalID: 337337278
+      spriteID: c32950553f405394487b9d76430f4502
+      internalID: -987467713
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_8'
+      name: Ground Tileset 1_8
       rect:
         serializedVersion: 2
         x: 128
@@ -299,14 +299,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d6362708a4791e48ad143cccc93beed
-      internalID: 965263777
+      spriteID: 53494fd555ae0bf4288fb6a47df1998e
+      internalID: 275784777
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_9'
+      name: Ground Tileset 1_9
       rect:
         serializedVersion: 2
         x: 144
@@ -320,35 +320,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 501a9b6aa2713394284c752e723c4539
-      internalID: -2126202450
+      spriteID: 01c5c0ab4ec7e3f42b1f8b34afe02fc4
+      internalID: 1446848996
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_10'
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6fdd7bd24322bc488b659f73ecdd4be
-      internalID: -1686298827
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_11'
+      name: Ground Tileset 1_10
       rect:
         serializedVersion: 2
         x: 0
@@ -362,14 +341,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e20728bef1fb7e4e9c66b4ce26e675e
-      internalID: 1052187857
+      spriteID: 7b0d7784580527347bda5c00aa9cc69b
+      internalID: -1568637081
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_12'
+      name: Ground Tileset 1_11
       rect:
         serializedVersion: 2
         x: 16
@@ -383,14 +362,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad53f868eefd0c843ab3c488bc901b1a
-      internalID: -579229464
+      spriteID: 6994d14f061dbde499d3fca97f707188
+      internalID: -622937340
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_13'
+      name: Ground Tileset 1_12
       rect:
         serializedVersion: 2
         x: 32
@@ -404,14 +383,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa8a8ecf90358794aaaff85012a9ef3c
-      internalID: 1976674825
+      spriteID: bc9bbbbb5c8e1534c8236cff560f527c
+      internalID: -1963921965
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_14'
+      name: Ground Tileset 1_13
       rect:
         serializedVersion: 2
         x: 48
@@ -425,14 +404,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9204f21542cb2a04ba8e697a2f639ff2
-      internalID: 541728300
+      spriteID: 66735568a59c3554aaf8aaca4dd70f1a
+      internalID: -893724382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_15'
+      name: Ground Tileset 1_14
       rect:
         serializedVersion: 2
         x: 64
@@ -446,14 +425,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 067c1a370b38afb4eb8e5745f947a0d4
-      internalID: -603199159
+      spriteID: 23c364729c1fe184dae1419edca53cb2
+      internalID: 933262607
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_16'
+      name: Ground Tileset 1_15
       rect:
         serializedVersion: 2
         x: 80
@@ -467,14 +446,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a460311db02f0847a6003c58540ab34
-      internalID: 1336990807
+      spriteID: 666bc78752a89d242aa6012515a93980
+      internalID: 1560499992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_17'
+      name: Ground Tileset 1_16
       rect:
         serializedVersion: 2
         x: 96
@@ -488,14 +467,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1e8cc7ef2f0483499544219ac7ce58c
-      internalID: 1402385883
+      spriteID: 19dfafb3c2bcb464bb575d3ff60ed2b0
+      internalID: 817867553
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_18'
+      name: Ground Tileset 1_17
       rect:
         serializedVersion: 2
         x: 112
@@ -509,14 +488,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b462ed73b2775694cb4169d0b80d4ba4
-      internalID: 1714031619
+      spriteID: bff044bdc11f93c44b42c2ae8761ee9e
+      internalID: 476364207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_19'
+      name: Ground Tileset 1_18
       rect:
         serializedVersion: 2
         x: 128
@@ -530,14 +509,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21a8a390a35fa2740bb596df1c85cfc9
-      internalID: 1417909857
+      spriteID: f19d57372b69b75469997ec0a9e12dfa
+      internalID: -1047200027
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_20'
+      name: Ground Tileset 1_19
       rect:
         serializedVersion: 2
         x: 144
@@ -551,35 +530,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e13259d6f936290469a4dd05d324430e
-      internalID: -1881639798
+      spriteID: df1a110be95668245ae6fcf069db5c72
+      internalID: -1961345104
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_21'
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 06ecd0cf555d39b44a26afc2efad1fd8
-      internalID: 10702703
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_22'
+      name: Ground Tileset 1_20
       rect:
         serializedVersion: 2
         x: 0
@@ -593,14 +551,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8526b4376a5cea544bc8bfb2c9c5b367
-      internalID: -958089514
+      spriteID: 80dcee4fb67fc7e46bfdee3bbbf248b4
+      internalID: -283686682
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_23'
+      name: Ground Tileset 1_21
       rect:
         serializedVersion: 2
         x: 16
@@ -614,14 +572,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e675eee594098034da0b6978ff8ffc1a
-      internalID: 401317273
+      spriteID: e99e3ffb5495e184ab6470b1fa789517
+      internalID: 1831784342
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_24'
+      name: Ground Tileset 1_22
       rect:
         serializedVersion: 2
         x: 32
@@ -635,14 +593,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d814a01813cc5c40b79d8ceb1bcf523
-      internalID: -1964121245
+      spriteID: bacee761433b42b439799164443b4691
+      internalID: 814618264
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_25'
+      name: Ground Tileset 1_23
       rect:
         serializedVersion: 2
         x: 48
@@ -656,14 +614,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d25350dd7e53de46be3dce707dc610d
-      internalID: -1956614252
+      spriteID: b4912f5bc99e37847a15c53d250f7771
+      internalID: 1512725762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_26'
+      name: Ground Tileset 1_24
       rect:
         serializedVersion: 2
         x: 64
@@ -677,14 +635,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff5b8bec8965ac94cbd41783a11e7054
-      internalID: -1427140819
+      spriteID: 5a35c214038717b4cbbfdd4ee10ef48c
+      internalID: -595777869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_27'
+      name: Ground Tileset 1_25
       rect:
         serializedVersion: 2
         x: 80
@@ -698,14 +656,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6de22dfd4d582a24692d97d8a4c4f3ae
-      internalID: 1833783374
+      spriteID: 004ec0fb8e62bce4293f33ae7d6531b4
+      internalID: -247893179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_28'
+      name: Ground Tileset 1_26
       rect:
         serializedVersion: 2
         x: 96
@@ -719,14 +677,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75419607ed03b27498f49fda26e4d3aa
-      internalID: 879223354
+      spriteID: c8d4e901fe6b59244abcc92f0fc867ea
+      internalID: 122999207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_29'
+      name: Ground Tileset 1_27
       rect:
         serializedVersion: 2
         x: 112
@@ -740,14 +698,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6807f25c8073b574783ec7f10198b809
-      internalID: 138814821
+      spriteID: 915e9615151b1284d9727299fb32a513
+      internalID: 2116532602
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_30'
+      name: Ground Tileset 1_28
       rect:
         serializedVersion: 2
         x: 128
@@ -761,14 +719,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d9c3dbb98bc022438f3353edfcdb767
-      internalID: -1618733303
+      spriteID: a2eecc30e0f1b8445990b0e358402c23
+      internalID: -1172298864
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_31'
+      name: Ground Tileset 1_29
       rect:
         serializedVersion: 2
         x: 144
@@ -782,14 +740,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa83893dce50a914b8bebe93f711baf2
-      internalID: 1574191014
+      spriteID: 84be00a22c9efe441a225f583f5e447e
+      internalID: -1678708076
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_32'
+      name: Ground Tileset 1_30
       rect:
         serializedVersion: 2
         x: 160
@@ -803,14 +761,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 628399626fe8d8c46ab08031f5b46425
-      internalID: 1828850777
+      spriteID: cc972e9039f1c7d40985898f31d09f6d
+      internalID: 1324342244
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_33'
+      name: Ground Tileset 1_31
       rect:
         serializedVersion: 2
         x: 0
@@ -824,14 +782,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4df5528f88fcc445be6538b702a3bd0
-      internalID: 1217265810
+      spriteID: 65b451faa0698f341b65fb46baccf709
+      internalID: -1951878822
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_34'
+      name: Ground Tileset 1_32
       rect:
         serializedVersion: 2
         x: 16
@@ -845,14 +803,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9fc2e1276c6a03740ab6f62489b74bc0
-      internalID: -833641885
+      spriteID: 75a51febe152b6f40ae4fbcbf8c67da9
+      internalID: -1967496430
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_35'
+      name: Ground Tileset 1_33
       rect:
         serializedVersion: 2
         x: 32
@@ -866,14 +824,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4dcf9d7c4111874c823e7a9f64c2b4b
-      internalID: 139953836
+      spriteID: e918a88e85f2d6f4ebadc5ff2f1da090
+      internalID: 1552280554
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_36'
+      name: Ground Tileset 1_34
       rect:
         serializedVersion: 2
         x: 48
@@ -887,14 +845,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 35cdd24bf0cbfc04d83c9743ad6c053b
-      internalID: -1499765109
+      spriteID: f0b2cea0fc5ebf64dadfd730ca0fbd67
+      internalID: -670876719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_37'
+      name: Ground Tileset 1_35
       rect:
         serializedVersion: 2
         x: 64
@@ -908,14 +866,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c95d2e7c5fe902b4bbe1f3249a5e35f7
-      internalID: 1207466703
+      spriteID: 325e8b1b3ef0c2a4db1ab2ac2818522b
+      internalID: 1388598743
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_38'
+      name: Ground Tileset 1_36
       rect:
         serializedVersion: 2
         x: 80
@@ -929,14 +887,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21592e89516e65f49a0af36dc623e2b3
-      internalID: 1647470974
+      spriteID: 3b1b26d2e40532e47aee4925855e6664
+      internalID: -1100558878
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_39'
+      name: Ground Tileset 1_37
       rect:
         serializedVersion: 2
         x: 96
@@ -950,14 +908,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2b4456beb800ee46ad9256f6d9fa9a8
-      internalID: 60157716
+      spriteID: e18250f99e0b610499739f0caba24c98
+      internalID: 1751163848
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_40'
+      name: Ground Tileset 1_38
       rect:
         serializedVersion: 2
         x: 112
@@ -971,14 +929,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e04c719b03cb9f48afba1e60d1321db
-      internalID: 178384815
+      spriteID: 12440f6ebe22907409078f692f7ddc42
+      internalID: 898629364
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_41'
+      name: Ground Tileset 1_39
       rect:
         serializedVersion: 2
         x: 128
@@ -992,14 +950,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a34104ba379ca8042afb238ba1e61257
-      internalID: 119244921
+      spriteID: 3e8e684cdeac9ef498160457b98454b3
+      internalID: -2102743436
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_42'
+      name: Ground Tileset 1_40
       rect:
         serializedVersion: 2
         x: 144
@@ -1013,14 +971,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5cd452ab0a511f442bb170bf8166d258
-      internalID: 885463435
+      spriteID: dfaa9e9d021250046a6655122ba4a670
+      internalID: -1111389675
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_43'
+      name: Ground Tileset 1_41
       rect:
         serializedVersion: 2
         x: 160
@@ -1034,98 +992,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: acb72959babb07044903a01eff80a10b
-      internalID: -1364196430
+      spriteID: db3ee2f5c0a7d5e4483f5c6c18743cd0
+      internalID: 601329168
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_44'
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4061bf8ec12fb6d47997a98ef95df23d
-      internalID: -909229556
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_45'
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d9eb367eff28eeb4b8a179f81b0ecc80
-      internalID: 1069313968
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_46'
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e766c3d7121bbb458fbe29a72355655
-      internalID: 204578705
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_47'
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8c491ada223d01b438b9689004b6e29f
-      internalID: -1805017139
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_48'
+      name: Ground Tileset 1_42
       rect:
         serializedVersion: 2
         x: 64
@@ -1139,14 +1013,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2fbf9e3634520ec4bb17a124823e5d9e
-      internalID: -292615458
+      spriteID: 0299c40c568512c43b8143c9eedc241e
+      internalID: 1736977764
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_49'
+      name: Ground Tileset 1_43
       rect:
         serializedVersion: 2
         x: 80
@@ -1160,14 +1034,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 414462f68ddd80e4b99bb34a586274fa
-      internalID: -1229896882
+      spriteID: 2414d1129f0af044492c834faa777b4a
+      internalID: -343537123
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_50'
+      name: Ground Tileset 1_44
       rect:
         serializedVersion: 2
         x: 96
@@ -1181,14 +1055,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97b72f9c6111c8d4293ba3c897c09040
-      internalID: 80535224
+      spriteID: 54b9308ffb5b2bf408f45be470d92c20
+      internalID: -2043869719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_51'
+      name: Ground Tileset 1_45
       rect:
         serializedVersion: 2
         x: 112
@@ -1202,14 +1076,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e17c07a378bb01949a3c5f04db537218
-      internalID: 769567337
+      spriteID: 9c85745c8d5200a44a7811a36fc779e6
+      internalID: 55784639
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_52'
+      name: Ground Tileset 1_46
       rect:
         serializedVersion: 2
         x: 128
@@ -1223,50 +1097,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d394ccf6a2035449a7fa68acfba58c9
-      internalID: 1784307935
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_53'
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 13b413a577efbda4c9a1c897b453178c
-      internalID: -863825843
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: '@Tileset Guide (Just in Case)_54'
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a9970ed1e2f52794ba5c361babc897eb
-      internalID: -1051421183
+      spriteID: 45c0db6116fa2c749a8023331849104a
+      internalID: -1636284247
       vertices: []
       indices: 
       edges: []
@@ -1282,61 +1114,53 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      '@Tileset Guide (Just in Case)_0': 792873490
-      '@Tileset Guide (Just in Case)_1': 1060379730
-      '@Tileset Guide (Just in Case)_10': -1686298827
-      '@Tileset Guide (Just in Case)_11': 1052187857
-      '@Tileset Guide (Just in Case)_12': -579229464
-      '@Tileset Guide (Just in Case)_13': 1976674825
-      '@Tileset Guide (Just in Case)_14': 541728300
-      '@Tileset Guide (Just in Case)_15': -603199159
-      '@Tileset Guide (Just in Case)_16': 1336990807
-      '@Tileset Guide (Just in Case)_17': 1402385883
-      '@Tileset Guide (Just in Case)_18': 1714031619
-      '@Tileset Guide (Just in Case)_19': 1417909857
-      '@Tileset Guide (Just in Case)_2': -1594574974
-      '@Tileset Guide (Just in Case)_20': -1881639798
-      '@Tileset Guide (Just in Case)_21': 10702703
-      '@Tileset Guide (Just in Case)_22': -958089514
-      '@Tileset Guide (Just in Case)_23': 401317273
-      '@Tileset Guide (Just in Case)_24': -1964121245
-      '@Tileset Guide (Just in Case)_25': -1956614252
-      '@Tileset Guide (Just in Case)_26': -1427140819
-      '@Tileset Guide (Just in Case)_27': 1833783374
-      '@Tileset Guide (Just in Case)_28': 879223354
-      '@Tileset Guide (Just in Case)_29': 138814821
-      '@Tileset Guide (Just in Case)_3': -1389055722
-      '@Tileset Guide (Just in Case)_30': -1618733303
-      '@Tileset Guide (Just in Case)_31': 1574191014
-      '@Tileset Guide (Just in Case)_32': 1828850777
-      '@Tileset Guide (Just in Case)_33': 1217265810
-      '@Tileset Guide (Just in Case)_34': -833641885
-      '@Tileset Guide (Just in Case)_35': 139953836
-      '@Tileset Guide (Just in Case)_36': -1499765109
-      '@Tileset Guide (Just in Case)_37': 1207466703
-      '@Tileset Guide (Just in Case)_38': 1647470974
-      '@Tileset Guide (Just in Case)_39': 60157716
-      '@Tileset Guide (Just in Case)_4': 418937583
-      '@Tileset Guide (Just in Case)_40': 178384815
-      '@Tileset Guide (Just in Case)_41': 119244921
-      '@Tileset Guide (Just in Case)_42': 885463435
-      '@Tileset Guide (Just in Case)_43': -1364196430
-      '@Tileset Guide (Just in Case)_44': -909229556
-      '@Tileset Guide (Just in Case)_45': 1069313968
-      '@Tileset Guide (Just in Case)_46': 204578705
-      '@Tileset Guide (Just in Case)_47': -1805017139
-      '@Tileset Guide (Just in Case)_48': -292615458
-      '@Tileset Guide (Just in Case)_49': -1229896882
-      '@Tileset Guide (Just in Case)_5': -330841166
-      '@Tileset Guide (Just in Case)_50': 80535224
-      '@Tileset Guide (Just in Case)_51': 769567337
-      '@Tileset Guide (Just in Case)_52': 1784307935
-      '@Tileset Guide (Just in Case)_53': -863825843
-      '@Tileset Guide (Just in Case)_54': -1051421183
-      '@Tileset Guide (Just in Case)_6': -1420620179
-      '@Tileset Guide (Just in Case)_7': 337337278
-      '@Tileset Guide (Just in Case)_8': 965263777
-      '@Tileset Guide (Just in Case)_9': -2126202450
+      Ground Tileset 1_0: 1227133452
+      Ground Tileset 1_1: -749610438
+      Ground Tileset 1_10: -1568637081
+      Ground Tileset 1_11: -622937340
+      Ground Tileset 1_12: -1963921965
+      Ground Tileset 1_13: -893724382
+      Ground Tileset 1_14: 933262607
+      Ground Tileset 1_15: 1560499992
+      Ground Tileset 1_16: 817867553
+      Ground Tileset 1_17: 476364207
+      Ground Tileset 1_18: -1047200027
+      Ground Tileset 1_19: -1961345104
+      Ground Tileset 1_2: 1406222020
+      Ground Tileset 1_20: -283686682
+      Ground Tileset 1_21: 1831784342
+      Ground Tileset 1_22: 814618264
+      Ground Tileset 1_23: 1512725762
+      Ground Tileset 1_24: -595777869
+      Ground Tileset 1_25: -247893179
+      Ground Tileset 1_26: 122999207
+      Ground Tileset 1_27: 2116532602
+      Ground Tileset 1_28: -1172298864
+      Ground Tileset 1_29: -1678708076
+      Ground Tileset 1_3: 1409273079
+      Ground Tileset 1_30: 1324342244
+      Ground Tileset 1_31: -1951878822
+      Ground Tileset 1_32: -1967496430
+      Ground Tileset 1_33: 1552280554
+      Ground Tileset 1_34: -670876719
+      Ground Tileset 1_35: 1388598743
+      Ground Tileset 1_36: -1100558878
+      Ground Tileset 1_37: 1751163848
+      Ground Tileset 1_38: 898629364
+      Ground Tileset 1_39: -2102743436
+      Ground Tileset 1_4: 1757508508
+      Ground Tileset 1_40: -1111389675
+      Ground Tileset 1_41: 601329168
+      Ground Tileset 1_42: 1736977764
+      Ground Tileset 1_43: -343537123
+      Ground Tileset 1_44: -2043869719
+      Ground Tileset 1_45: 55784639
+      Ground Tileset 1_46: -1636284247
+      Ground Tileset 1_5: 626717303
+      Ground Tileset 1_6: 280531996
+      Ground Tileset 1_7: -987467713
+      Ground Tileset 1_8: 275784777
+      Ground Tileset 1_9: 1446848996
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
